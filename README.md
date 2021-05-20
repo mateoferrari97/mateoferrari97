@@ -3,7 +3,7 @@
 My name is Mateo, I'm from Argentina and I'm a Software Backend Engineer.
 
 * Working for [@MercadoLibre](https://www.mercadolibre.com) as a Ssr. Software Engineer.
-* Studying Data Science at Universidad de Buenos Aires... before that I was studying Software Engineering (Incomplete)
+* Studying Data Science at Universidad de Buenos Aires... before that I was studying Software Engineering
 
 ## Skills 👨‍🔬
 * Using Golang since 2019.
