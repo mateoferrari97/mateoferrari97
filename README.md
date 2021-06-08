@@ -7,9 +7,9 @@ My name is Mateo, I'm from Argentina and I'm a Software Backend Developer.
 
 ## Skills 👨‍🔬
 * Using Golang since 2019.
-* SQL, Key Value stores, Queue messaging and Cron Jobs.
-* Docker.
-* Some knowleadge in creating and viewing metrics and logs on New Relic, Datadog and Kibana.
+* SQL, Key Value Stores, Queue messaging and Cron Jobs.
+* Some knowleadge in Docker, Docker Compose and NGINX.
+* Some knowleadge in creating, extracting and analying metrics and logs in New Relic, Datadog and Kibana.
 * Critical thinking, decision-making and problem solving skills.
 
 ## Contact ✉️
