@@ -2,7 +2,7 @@
 
 My name is Mateo, I'm from Argentina and I'm a Software Backend Developer.
 
-* Working for [@MercadoLibre](https://www.mercadolibre.com) as a Ssr. Software Backend Developer.
+* Working for [@MercadoLibre](https://www.mercadolibre.com) as a Ssr. Software Backend Engineer.
 * Studying Data Science at Universidad de Buenos Aires... before that I was studying Software Engineering.
 
 ## Skills 👨‍🔬
