@@ -6,7 +6,7 @@ My name is Mateo and I'm from Argentina.
 ## Skills 👨‍🔬
 * Using Golang since 2019.
 * SQL, Key Value Stores, Queue messaging and Cron Jobs.
-* Docker, Docker Compose and NGINX.
+* Docker.
 * Create, extract and analyze metrics and logs in New Relic, Datadog and Kibana.
 * Critical thinking, decision-making and problem solving skills.
 
