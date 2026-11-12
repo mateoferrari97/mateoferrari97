@@ -4,7 +4,7 @@
 
 ### Hola! I'm Mateo 👋
 
-Senior Forward Deployed Engineer Developer from Buenos Aires. Eight years building products end to end at Mercado Libre, Mercado Pago, Kavak, The Mobile First Company and AppDirect: I design, build, ship and monitor apps that are secure, reliable and ready to grow.
+Senior Forward Deployed Engineer from Buenos Aires. Eight years building products end to end at Mercado Libre, Mercado Pago, Kavak, The Mobile First Company and AppDirect: I design, build, ship and monitor apps that are secure, reliable and ready to grow.
 
 I also turned my story into a city you can walk through. Mateo's World is a top-down Buenos Aires where I walk you through my life, sector by sector.
 
